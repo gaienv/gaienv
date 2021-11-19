@@ -1,7 +1,7 @@
  
 ### Hi there, I'm Genia - aka [gaienv] 👋 
 
-[![Facebook](https://img.shields.io/website?label=facebook.com&style=for-the-badge&url=https%3A%2F%2Ffaceook.com)](https://facebook.com/rivaille.darko)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 [![Facebook Page](https://img.shields.io/facebook/follow/GenGaming?color=1DA1F2&logo=facebook&style=for-the-badge)](https://facebook.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%gaienv&screen_name=gaienv)
 
 ## I'm a Learner, Illustrator, Developer, and Gamer!!
@@ -45,7 +45,7 @@
 
 
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user={gaienv}">
 
 </details>
 
