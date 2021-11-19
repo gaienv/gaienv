@@ -1,5 +1,6 @@
- 
-### Hi there, I'm Genia - aka [gaienv] 👋 
+ ### MY PROFILE! 🌸
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23BD4F81&lines=Welcome+to+my+Profile!;I'm+Genia+Baldevia;I+am+still+learning%2C+hope+we+can+all+get+along!)](https://git.io/typing-svg)
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rivaille.darko/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gaienv/)
