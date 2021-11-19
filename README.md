@@ -1,6 +1,8 @@
  
 ### Hi there, I'm Genia - aka [gaienv] 👋 
 
+[![Facebook](https://img.shields.io/website?label=facebook.com&style=for-the-badge&url=https%3A%2F%2Ffaceook.com)](https://facebook.com/rivaille.darko)
+[![Facebook Page](https://img.shields.io/facebook/follow/GenGaming?color=1DA1F2&logo=facebook&style=for-the-badge)](https://facebook.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%gaienv&screen_name=gaienv)
 
 ## I'm a Learner, Illustrator, Developer, and Gamer!!
 
