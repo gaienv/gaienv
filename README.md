@@ -1,7 +1,7 @@
  
 ### Hi there, I'm Genia - aka [gaienv] 👋 
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/GaienvGaming/)
 [![Facebook Page](https://img.shields.io/facebook/follow/GenGaming?color=1DA1F2&logo=facebook&style=for-the-badge)](https://facebook.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%gaienv&screen_name=gaienv)
 
 ## I'm a Learner, Illustrator, Developer, and Gamer!!
