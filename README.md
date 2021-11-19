@@ -18,6 +18,7 @@
 [<img align="left" alt="PhantomHazard | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="GeniaBaldevia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="gaienv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<div class="fb-page" data-href="https://www.facebook.com/GaienvGaming/" data-tabs="videos" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/GaienvGaming/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/GaienvGaming/">Gen Gaming</a></blockquote></div>]
 
 <br />
 
