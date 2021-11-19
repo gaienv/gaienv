@@ -1,8 +1,7 @@
  
 ### Hi there, I'm Genia - aka [gaienv] 👋 
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/GaienvGaming/)
-[![Follow](	https://img.shields.io/facebook.svg?style=social&label=Follow&maxAge=2592000)]
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rivaille.darko/)
 
 
 ## I'm a Learner, Illustrator, Developer, and Gamer!!
@@ -39,7 +38,7 @@
 ### 📺 Here is my facebook gaming page!! PLS SUPPORT ME! thank you ♥
 <!-- FACEBOOK:START -->
 
-- [GENGAMING✅ ](https://www.facebook.com/GaienvGaming/)
+[![Facebook](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white)](https://www.facebook.com/GaienvGaming/)
 
 <!-- FACEBOOK:END -->
 
