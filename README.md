@@ -45,7 +45,7 @@
 
 
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user={gaienv}">
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gaienv">
 
 </details>
 
