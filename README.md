@@ -11,12 +11,12 @@
 - 🔭 I want to create innovations using IT!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I'm currently looking for employment
-- 🥅 2022 Goals: Find a work!
+- 🥅 2023 Goals: Get a RAISE!!
 - ⚡ Fun fact: I love to draw and play piano, I am also streaming my favorite online games! 🎮 and I also love to bake and cook.
 
 ### Connect with me:
 
-[<img align="left" alt="GenGaming | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Gaienv XP+ | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="PhantomHazard | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="GeniaBaldevia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="gaienv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
