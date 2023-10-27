@@ -10,8 +10,8 @@
 
 - 🔭 I want to create innovations using IT!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I'm currently looking for employment
-- 🥅 2023 Goals: Get a RAISE!!
+- 👯 I'm currently looking for potential skills
+- 🥅 2023 Goals: Learn New Things!
 - ⚡ Fun fact: I love to draw and play piano, I am also streaming my favorite online games! 🎮 and I also love to bake and cook.
 
 ### Connect with me:
